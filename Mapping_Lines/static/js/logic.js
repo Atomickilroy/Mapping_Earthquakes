@@ -18,7 +18,8 @@ let line = [
 L.polyline(line, {
     color: "blue",
     weight: 4,
-    opacity: 0.5,    
+    opacity: 0.5,
+    //dashArray: "3 1"   
   }).addTo(map);
 
 
