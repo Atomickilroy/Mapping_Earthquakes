@@ -218,14 +218,14 @@ legend.addTo(map);
     
   let tect = ("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json")
   let myStyle = {
-    color: 'red',
+    color: '#f56b02',
     weight: 4    
     };
 
   d3.json(tect).then(function(data){
       L.geoJSON(data,{
-        sytle:myStyle         
-    }).addTo(tectonic);
+        style:myStyle         
+        }).addTo(tectonic);
   });
   tectonic.addTo(map);  
   
