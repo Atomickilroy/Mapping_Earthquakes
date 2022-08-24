@@ -5,7 +5,7 @@
 
 ## Overview of Project
 
-#### - *This project was to build an interactive layered map using Leaflet.js API and using a URL to populate the map with the most current data on earthquakes around the world. (last7days) The circles in the images are proportional to the magnitude of the earthquake and each will display an informational popup. To suit user preference the background can display three different style and the maps can add or drop any of the three data tabs for added interactivity.*
+#### - *This project was to build an interactive layered map using Leaflet.js API and using a URL to populate the map with the most current data on earthquakes around the world. (last7days) The circles in the images are proportional to the magnitude of the earthquake and each will display an informational popup. To suit user preference the background can display three different styles and the user can add or drop any of the three data tabs for added interactivity.*
 
 ## Purpose
 
@@ -19,14 +19,10 @@
     -Add multiple map layers to geographical maps using Leaflet control plugins to add user interface controls.
     -Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
     -Render maps on a local server.
-  
+
+## Additional images from repo :  
 ![map](https://github.com/Atomickilroy/Mapping_Earthquakes/blob/main/Images/Screenshot%202022-08-24%20093221.png)
 
-![mobile](https://github.com/Atomickilroy/Mapping_Earthquakes/blob/main/Images/Screenshot%202022-08-24%20072511.png)
-
-
-
-
-## Summary: 
+![mobile](https://github.com/Atomickilroy/Mapping_Earthquakes/blob/main/Images/Screenshot%202022-08-24%20072511.png) 
 
 ![mobile](https://github.com/Atomickilroy/Mapping_Earthquakes/blob/main/Images/Screenshot%202022-08-24%20072616.png)
