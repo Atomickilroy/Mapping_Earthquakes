@@ -143,7 +143,7 @@ d3.json("https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geoj
     if (magnitude > 6) {
       return "#ea2c2c";
     }
-    if (magnitude > 5) {
+    if (magnitude >= 5 ) {
       return "#ea822c";
     }
     if (magnitude < 5) {
@@ -218,7 +218,7 @@ legend.addTo(map);
     
   let tect = ("https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json")
   let myStyle = {
-    color: "#07e612",
+    color: 'red',
     weight: 4    
     };
 
