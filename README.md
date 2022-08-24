@@ -1,7 +1,7 @@
 # Mapping_Earthquakes
 
+![mobile](https://github.com/Atomickilroy/Mapping_Earthquakes/blob/main/Images/Screenshot%202022-08-24%20094110.png) 
 
-[Link to Dash Board!](https://github.com/Atomickilroy/Mapping_Earthquakes/blob/main/Images/Screenshot%202022-08-24%20093221.png)
 
 
 
@@ -16,8 +16,8 @@
    - Use functional programming in JavaScript to manipulate data.
    - How to use interactivity to enhance your visualizations.
    - Deploy an interactive chart to GitHub Pages
-    
-
+  
+![map](https://github.com/Atomickilroy/Mapping_Earthquakes/blob/main/Images/Screenshot%202022-08-24%20093221.png)
 
 ![mobile](https://github.com/Atomickilroy/Mapping_Earthquakes/blob/main/Images/Screenshot%202022-08-24%20072511.png)
 
@@ -26,5 +26,4 @@
 
 ## Summary: 
 
- This project was a display of how to create and engaging and dynamic dashboard with our 'friend' Roza. By using web visualizations and Github Pages. With Github Pages we were able to build a web page that allows a user to interact with our .json file without having to run their own local serve. 
- Additionally this dashboarded allowed for a quick way for one of Rozas volunteers to select their anonymized ID from the dropdown menu in the browser to display information about their results.  
+![mobile](https://github.com/Atomickilroy/Mapping_Earthquakes/blob/main/Images/Screenshot%202022-08-24%20072616.png)
